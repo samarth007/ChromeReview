@@ -1,0 +1,11 @@
+2022-04-09/20:33:31		Model training starts
+2022-04-09/20:33:31		Dropped Irrelevant columns
+2022-04-09/20:33:31		Nan values dropped from row
+2022-04-09/20:33:31		Added new column as Bad_review
+2022-04-09/20:33:31		label separation done
+2022-04-09/20:34:02		Data cleaning and converting text to vector
+2022-04-09/20:34:02		Retriving best model
+2022-04-09/20:34:05		Model training done on Gaussian NB 0.6671779141104295
+2022-04-09/20:34:05		Model training done on MultiNorma NB 0.7859712230215827
+2022-04-09/20:34:05		Model retrived was MultiNB
+2022-04-09/20:34:05		Model saved

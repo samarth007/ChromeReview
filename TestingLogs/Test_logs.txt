@@ -1,0 +1,7 @@
+2022-04-09/20:34:26		Prediction started
+2022-04-09/20:34:26		Dropped Irrelevant columns
+2022-04-09/20:34:26		Nan values dropped from row
+2022-04-09/20:34:26		Label separation for prediction
+2022-04-09/20:34:26		Data cleaning and converting text to vector
+2022-04-09/20:34:26		Model loaded
+2022-04-09/20:34:26		Model prediction done
