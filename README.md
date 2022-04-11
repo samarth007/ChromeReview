@@ -11,9 +11,9 @@ After preprocessing, The test data is applied on the model which we have saved w
 
 
 **Suggested questions:**
-Is there any co-relation between short description, long description and ranking? Does the placement of keyword (for example - using a keyword in the first 10 words - have any co-relation with the ranking)? ---- Yes there is a correlation
-Does APP ID (Also known as package name) play any role in ranking? --- app id is not playing any role in ranking
-Any other pattern or good questions that you can think of and answer?--- No
+1).Is there any co-relation between short description, long description and ranking? Does the placement of keyword (for example - using a keyword in the first 10 words - have any co-relation with the ranking)? ---- Yes there is a correlation..
+2).Does APP ID (Also known as package name) play any role in ranking? --- app id is not playing any role in ranking..
+3).Any other pattern or good questions that you can think of and answer?--- No..
 
 
 
