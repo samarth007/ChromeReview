@@ -7,6 +7,7 @@ Basically all the preprocessing activity like, label separation, detecting Nan v
 Once preprocessing is done then we are feeding the matrix to model for training, In case of Model training I've adopted 2 models, Gaussian Navie Baye's and MultinomialNB. Data is trained on both the models and whichever model is giving good accuracy we are gonna save that model as pickle file in the Model folder.
 At the time of prediction, Again the same preprocessing task is done on the test data but the only changes is instead of fit_transform we will be using transform method.
 After preprocessing, The test data is applied on the model which we have saved while model training and output is saved as Predict.csv in Prediction folder.
+The project is implemented using flask framework and deployed in Streamlit.
 Kindly ignore test.py file
 
 
